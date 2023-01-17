@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[welcome report and console]]>
+    </line>
+    <line>
+      <![CDATA[report]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52" started-at="2022-12-01T22:03:59 IST" finished-at="2022-12-01T22:03:59 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52" started-at="2022-12-01T22:03:59 IST" finished-at="2022-12-01T22:03:59 IST">
+      <class name="co.baa.testscript.test1">
+        <test-method status="PASS" signature="demo()[pri:0, instance:co.baa.testscript.test1@67205a84]" name="demo" duration-ms="12" started-at="2022-12-01T22:03:59 IST" finished-at="2022-12-01T22:03:59 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[welcome report and console]]>
+            </line>
+            <line>
+              <![CDATA[report]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- co.baa.testscript.test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
